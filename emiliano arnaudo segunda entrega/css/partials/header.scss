@@ -1,0 +1,21 @@
+header.main-header{
+    position: relative;    
+    top: 0;
+    width: 100%;
+    z-index:9999;
+
+    .header-wrap{
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        background-image: url(../multimedia/fondo\ pagina.png);
+        z-index: 999;
+
+        .wrap-logo-header{
+            display: flex;
+            align-items: center;
+            flex-basis: 15%;
+           
+          }
+          
+    }}
